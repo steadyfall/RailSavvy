@@ -1,0 +1,7 @@
+# virtual environment
+venv
+
+# sqlite executable
+sqlite3.exe
+
+trainScheduleGenerator
