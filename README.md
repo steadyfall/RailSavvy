@@ -1,16 +1,5 @@
-<b>
+![logo](./images/logo.png)
 
-```
-
-            ____        _   _____                        
-           / __ \____ _(_) / ___/____ __   ___   ____  __
-          / /_/ / __ `/ / /\__ \/ __ `/ | / / | / / / / /
-         / _, _/ /_/ / / /___/ / /_/ /| |/ /| |/ / /_/ / 
-        /_/ |_|\__,_/_/_//____/\__,_/ |___/ |___/\__, /  
-                                                /____/   
-
-```
-</b>
 <br>
 
 A command-line interface railway reservation management system using RDBMS databases. 
