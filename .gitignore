@@ -5,3 +5,5 @@ venv
 sqlite3.exe
 
 trainScheduleGenerator
+
+cmds.txt
