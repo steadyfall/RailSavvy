@@ -1,5 +1,7 @@
 ![logo](./images/logo.png)
 
+```
+</b>
 <br>
 
 A command-line interface railway reservation management system using RDBMS databases. 
